@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bruenjames
-- 👀 I’m interested in becoming a full stack web developer. 
+- 👀 I’m interested in becoming a full stack web developer. I am a professional front - end developer. 
 - 🌱 I’m currently learning back end web development. 
-- 💞️ I’m looking to collaborate on back end full stack web development .
+- 💞️ I’m looking to collaborate with other full stack web development .
 - 📫 How to reach me .jamesbruen17@gmail.com ..
 
 <!---
